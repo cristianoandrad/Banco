@@ -1,0 +1,12 @@
+C:\Users\Cristiano\source\repos\Banco\Banco\bin\Debug\net5.0\Banco.deps.json
+C:\Users\Cristiano\source\repos\Banco\Banco\bin\Debug\net5.0\Banco.dll
+C:\Users\Cristiano\source\repos\Banco\Banco\bin\Debug\net5.0\ref\Banco.dll
+C:\Users\Cristiano\source\repos\Banco\Banco\bin\Debug\net5.0\Banco.pdb
+C:\Users\Cristiano\source\repos\Banco\Banco\obj\Debug\net5.0\Banco.csproj.AssemblyReference.cache
+C:\Users\Cristiano\source\repos\Banco\Banco\obj\Debug\net5.0\Banco.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Cristiano\source\repos\Banco\Banco\obj\Debug\net5.0\Banco.AssemblyInfoInputs.cache
+C:\Users\Cristiano\source\repos\Banco\Banco\obj\Debug\net5.0\Banco.AssemblyInfo.cs
+C:\Users\Cristiano\source\repos\Banco\Banco\obj\Debug\net5.0\Banco.csproj.CoreCompileInputs.cache
+C:\Users\Cristiano\source\repos\Banco\Banco\obj\Debug\net5.0\Banco.dll
+C:\Users\Cristiano\source\repos\Banco\Banco\obj\Debug\net5.0\ref\Banco.dll
+C:\Users\Cristiano\source\repos\Banco\Banco\obj\Debug\net5.0\Banco.pdb

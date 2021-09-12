@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31624.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Banco", "Banco\Banco.csproj", "{9D4A1DAE-D4B3-4A02-B9FD-1DCE4FED0DCC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BancoTeste", "BancoTeste\BancoTeste.csproj", "{6A52EB45-C885-4D97-90A1-F8B1B4CF5BB7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9D4A1DAE-D4B3-4A02-B9FD-1DCE4FED0DCC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9D4A1DAE-D4B3-4A02-B9FD-1DCE4FED0DCC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9D4A1DAE-D4B3-4A02-B9FD-1DCE4FED0DCC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9D4A1DAE-D4B3-4A02-B9FD-1DCE4FED0DCC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6A52EB45-C885-4D97-90A1-F8B1B4CF5BB7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6A52EB45-C885-4D97-90A1-F8B1B4CF5BB7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6A52EB45-C885-4D97-90A1-F8B1B4CF5BB7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6A52EB45-C885-4D97-90A1-F8B1B4CF5BB7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8C156592-0BDC-44B5-B168-B99CEB9CC2FE}
+	EndGlobalSection
+EndGlobal
